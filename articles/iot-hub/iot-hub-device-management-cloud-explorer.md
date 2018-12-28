@@ -40,7 +40,7 @@ Run Cloud Explorer for Visual Studio with various management options.
 
 - An active Azure subscription.
 - An Azure IoT Hub under your subscription.
-- Microsoft Visual Studio 2017 Update 8 or later
+- Microsoft Visual Studio 2017 Update 9 or later
 - Cloud Explorer component from Visual Studio Installer (selected by default with Azure Workload)
 
 ## Update Cloud Explorer to latest version
